@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "1c2RRURvVfdTSjSH3uweS"
+uri = "file://artifacts/lumen/assets/images/icon.png"
+type = "image"
+title = "lumen app icon"
+
+[[generated]]
+id = "BLJ2YTuJ7KttmPE9HUjL3"
+uri = "file://artifacts/lumen/assets/images/slide_preview.png"
+type = "image"
+title = "slide preview placeholder"
